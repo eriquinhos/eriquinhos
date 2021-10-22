@@ -15,7 +15,7 @@
 
   - 💻 I'm a Student & Python Developer
 
-  - 📍 I’m from Brazil.
+  - 📍 I’m from Brazil
 
   - 📚 I’m currently learning _Python_ and _Web Development_.
 
