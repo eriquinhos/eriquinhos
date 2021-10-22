@@ -3,7 +3,7 @@
 ### I'm Eric Victor | Eu sou Eric Victor ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eriquinhos)
 <hr/>
 
-<img align="left" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80" width="45%">
+<img align="left" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80" width="50%">
   
 <p align="right"> 
   
