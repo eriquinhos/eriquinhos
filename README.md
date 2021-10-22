@@ -1,9 +1,9 @@
-## Hi there, welcome to my GitHub 👋 | Olá, seja bem vindo ao meu GitHub
+## Hello, World 👋 | Olá, Mundo 👋
 
-### I'm Eric Victor | Eu sou Eric Victor 
-<hr>
-<div>
-  <img align="left" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80" width="45%">
+### I'm Eric Victor | Eu sou Eric Victor ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eriquinhos)
+<hr/>
+
+<img align="left" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80" width="45%">
   
 <p align="right"> 
   
@@ -22,25 +22,40 @@
   - 🤓 If you want to develop a project with me, I would be more than happy to help
   
 </p>
+  
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&layout=compact=true&theme=radical"  width='50%'/>
+  
 <p align="left">
+  
+  ## Sobre mim:
+
+  - 😄 Pronomes: Ele/Dele
+
+  - ☕ Atualmente viciado em café 😵‍💫
+
+  - 💻 Sou um Estudante e Desenvolvedor Python 
+
+  - 📍 Eu sou do Brasil
+
+  - 📚 Atualmente estou aprendendo _Python_ e _Desenvolvimento Web_.
+
+  - 🤓 Se você quiser desenvolver um projeto comigo, ficarei muito feliz em ajudar
+  
+</p>
+<hr/>
+<p>
+  
+  ## Connect with me | Conecte-se comigo:
+  
+  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/eric-victor-1456b61b2/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/prazer_eric/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="32">](https://github.com/eriquinhos) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ericvictor.contato@gmail.com)
+|:---:|:---:|:---:|:---:|
+</p>
+<hr/>
+
+<img align = 'left' src="https://github-readme-stats.vercel.app/api?username=eriquinhos&show_icons=true&theme=radical" width='45%'/>
+<img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=eriquinhos&theme=radical"  width='50%' /> 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=eriquinhos&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eriquinhos&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact=true&theme=radical" />
-
-<!--
-**eriquinhos/eriquinhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
