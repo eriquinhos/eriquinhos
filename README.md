@@ -33,7 +33,7 @@
 
   - ☕ Atualmente viciado em café 😵‍💫
 
-  - 💻 Sou um Estudante e Desenvolvedor Python 
+  - 💻 Sou um Estudante & Desenvolvedor Python 
 
   - 📍 Eu sou do Brasil
 
