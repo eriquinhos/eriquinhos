@@ -19,7 +19,7 @@
 
   - 📚 I’m currently learning _Python_ and _Web Development_.
 
-  - 🤓 If you want to develop a project with me, I would be more than happy to help
+  - 🤓 If you want to develop a project with me, I will be more than happy to help
   
 </p>
   
