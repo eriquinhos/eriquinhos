@@ -11,7 +11,7 @@
 
   - 😄 Pronouns: He/Him
 
-  - ☕ Currently addicted in coffee 😵‍💫
+  - ☕ Currently addicted to coffee 😵‍💫
 
   - 💻 I'm a Student & Python Developer
 
