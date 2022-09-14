@@ -23,7 +23,7 @@
   
 </p>
   
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&layout=compact=true&theme=radical"  width='50%'/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&layout=compact=true&theme=radical)"  width='40%'/>
   
 <p align="left">
   
