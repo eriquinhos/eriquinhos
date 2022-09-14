@@ -54,8 +54,3 @@
 
 <img align = 'left' src="https://github-readme-stats.vercel.app/api?username=eriquinhos&show_icons=true&theme=radical" width='45%'/>
 <img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=eriquinhos&theme=radical"  width='50%' /> 
-
-
-
-
-
