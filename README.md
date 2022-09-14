@@ -22,10 +22,14 @@
   - 🤓 If you want to develop a project with me, I will be more than happy to help
   
 </p>
-  
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&layout=compact=true&theme=radical)"  width='40%'/>
+ 
+<hr/>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&layout=compact=true&theme=midnight-purple"  width='40%'/>
   
 <p align="left">
+  
+
   
   ## Sobre mim:
 
@@ -52,5 +56,5 @@
 </p>
 <hr/>
 
-<img align = 'left' src="https://github-readme-stats.vercel.app/api?username=eriquinhos&show_icons=true&theme=radical" width='45%'/>
-<img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=eriquinhos&theme=radical"  width='50%' /> 
+<img align = 'left' src="https://github-readme-stats.vercel.app/api?username=eriquinhos&show_icons=true&theme=midnight-purple" width='45%'/>
+<img align = 'right' src="https://github-readme-streak-stats.herokuapp.com/?user=eriquinhos&theme=midnight-purple"  width='50%' /> 
