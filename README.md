@@ -25,7 +25,7 @@
  
 <hr/>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&hide_progress=true"  width='40%'/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos"  width='40%'/>
 
   
 <p align="left">
