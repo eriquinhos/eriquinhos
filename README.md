@@ -25,7 +25,7 @@
  
 <hr/>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&layout=donut&theme=onedark"  width='40%'/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&layout=donut&theme=tokyonight"  width='40%'/>
 
   
 <p align="left">
