@@ -13,6 +13,7 @@
 **PT-BR:** Desenvolvedor full-stack apaixonado por **dados**, **machine learning** e **otimização**. Trabalho na **Embraer** processando e analisando dados de aeronaves com foco em **performance** e **automação inteligente**.
 
 **EN:** Full-stack developer passionate about **data**, **machine learning** and **optimization**. Working at **Embraer** processing and analyzing aircraft data with focus on **performance** and **intelligent automation**.
+
 ---
 
 ## 💼 O que faço | What I do
@@ -65,32 +66,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriquinhos&layout=compact&theme=dracula&hide_border=true&border_radius=10)](https://github.com/eriquinhos)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriquinhos&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/eriquinhos)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=eriquinhos&theme=dracula&hide_border=true&border_radius=10)](https://github.com/eriquinhos)
-
-</div>
 
 ---
 
